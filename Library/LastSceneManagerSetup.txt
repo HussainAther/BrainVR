@@ -1,1 +1,17 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/Completed_Workshop_Scenes/MLW.Brain.001.PlaceOnFloor --Complete.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Completed_Workshop_Scenes/MLW.Brain.002.ControlPointer -- Complete.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Completed_Workshop_Scenes/MLW.Brain.003.FinesseControl -- Complete.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Completed_Workshop_Scenes/MLW.Brain.004.UserInterfaces-- Complete.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
